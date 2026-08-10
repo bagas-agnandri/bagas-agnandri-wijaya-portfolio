@@ -2,25 +2,63 @@
 
 ## Overview
 
-This case study presents a structured approach to railway maintenance governance, technical documentation, maintenance procedures, inspection procedures, preventive maintenance programs, and Standard Operating Procedure (SOP) development.
+This case study presents my professional experience and approach to railway maintenance governance, technical documentation, maintenance procedures, inspection procedures, preventive maintenance programs, and Standard Operating Procedure (SOP) development.
 
-The content is presented using generalized and non-confidential information for professional portfolio purposes.
+The case study uses generalized and non-confidential information for professional portfolio purposes.
 
 ---
 
 ## Professional Context
 
-Railway infrastructure maintenance requires clear procedures, defined responsibilities, inspection standards, maintenance planning, and documented work processes.
+Railway infrastructure maintenance requires clear procedures, defined responsibilities, inspection standards, maintenance planning, safety controls, and documented work processes.
 
 My professional experience includes supporting the development, review, implementation, and documentation of railway infrastructure maintenance procedures and inspection activities.
 
-The work involves translating technical requirements into practical maintenance processes that can be implemented consistently by field teams.
+The work involves translating technical and regulatory requirements into practical maintenance processes that can be implemented consistently by field teams.
+
+---
+
+## Governance Scope
+
+My experience in maintenance governance covers:
+
+- Maintenance procedures
+- Inspection procedures
+- Preventive maintenance programs
+- SOP development
+- Technical documentation
+- Roles and responsibilities
+- Safety requirements
+- Quality requirements
+- Emergency response
+- Document control
+- Field implementation
+- Verification and improvement
+
+---
+
+## My Role & Professional Contribution
+
+My professional contribution includes supporting the development and implementation of maintenance governance documents and work processes.
+
+Key contributions include:
+
+- Supporting the development and review of maintenance procedures.
+- Supporting inspection procedure development and implementation.
+- Translating technical requirements into practical field work processes.
+- Supporting preventive maintenance program development.
+- Defining work sequences, responsibilities, inspection requirements, safety controls, and documentation requirements.
+- Supporting inclusion of emergency response requirements in maintenance procedures.
+- Coordinating technical input from relevant functions during procedure development.
+- Supporting implementation of approved procedures by field maintenance teams.
+- Reviewing field feedback and maintenance findings as inputs for procedure improvement.
+- Supporting document control and revision management.
 
 ---
 
 ## Maintenance Governance Framework
 
-A structured maintenance governance framework can be organized as follows:
+A structured maintenance governance framework is:
 
 Regulatory & Technical Requirements  
 ↓  
@@ -40,7 +78,9 @@ Verification & Documentation
 ↓  
 Performance Monitoring  
 ↓  
-Continuous Improvement  
+Continuous Improvement
+
+This framework connects requirements and maintenance strategy with practical field implementation and performance monitoring.
 
 ---
 
@@ -70,7 +110,7 @@ The objective is to ensure that maintenance activities can be performed consiste
 
 ## SOP Development Approach
 
-A structured SOP development process may include:
+A structured SOP development process is:
 
 Identify Maintenance Activity  
 ↓  
@@ -92,18 +132,20 @@ Approval
 ↓  
 Implementation  
 ↓  
-Monitoring & Revision  
+Monitoring & Revision
+
+This approach supports consistent implementation and provides a basis for controlled revision when requirements or field conditions change.
 
 ---
 
 ## Preventive Maintenance Program
 
-Preventive maintenance planning should consider:
+Preventive maintenance planning considers:
 
 - Asset type
 - Asset criticality
 - Inspection requirements
-- Manufacturer recommendations
+- Manufacturer recommendations where applicable
 - Historical defects
 - Environmental conditions
 - Operating conditions
@@ -111,13 +153,13 @@ Preventive maintenance planning should consider:
 - Previous maintenance results
 - Risk and priority
 
-A preventive maintenance program helps reduce unexpected failures and supports long-term asset reliability.
+A structured preventive maintenance program supports asset reliability and helps reduce unexpected deterioration or failures.
 
 ---
 
 ## Inspection & Maintenance Integration
 
-Inspection findings should be connected to maintenance planning.
+Inspection findings should be connected directly to maintenance planning.
 
 Inspection  
 ↓  
@@ -135,15 +177,15 @@ Execution
 ↓  
 Verification  
 ↓  
-Database / Record Update  
+Database / Record Update
 
-This integration improves traceability between asset condition and maintenance actions.
+This integration improves traceability between asset condition, maintenance decisions, and completed actions.
 
 ---
 
 ## Documentation Control
 
-Technical maintenance documentation should be controlled to ensure that field teams use the correct and approved information.
+Technical maintenance documentation should be controlled so that field teams use current and approved information.
 
 Important controls include:
 
@@ -151,7 +193,7 @@ Important controls include:
 - Revision number
 - Effective date
 - Approval status
-- Responsible department
+- Responsible function
 - Distribution control
 - Revision history
 - Obsolete document control
@@ -162,7 +204,7 @@ Proper document control reduces the risk of outdated procedures being used durin
 
 ## Roles & Responsibilities
 
-A maintenance procedure should establish clear responsibilities between relevant functions.
+Maintenance procedures should establish clear responsibilities between relevant functions.
 
 ### Maintenance Management
 
@@ -212,7 +254,7 @@ Potential emergency scenarios may include:
 - Equipment failure
 - Unsafe working conditions
 
-The general response sequence may include:
+A general response sequence is:
 
 Stop Work  
 ↓  
@@ -226,7 +268,7 @@ Emergency Response / Evacuation
 ↓  
 Incident Reporting  
 ↓  
-Investigation & Corrective Action  
+Investigation & Corrective Action
 
 Emergency response requirements should be aligned with applicable operational and safety procedures.
 
@@ -245,7 +287,7 @@ Maintenance governance should be continuously improved based on:
 - Changes in technical requirements
 - Lessons learned
 
-A continuous improvement cycle can be represented as:
+The improvement cycle is:
 
 Plan  
 ↓  
@@ -257,7 +299,7 @@ Evaluate
 ↓  
 Improve  
 ↓  
-Standardize  
+Standardize
 
 ---
 
@@ -284,7 +326,7 @@ My approach to maintenance governance is based on:
 
 **Requirement → Procedure → Implementation → Verification → Improvement**
 
-The objective is to ensure that maintenance requirements are translated into practical, controlled, and measurable work processes.
+The objective is to ensure that maintenance requirements are translated into practical, controlled, and traceable work processes that can be implemented consistently in the field.
 
 ---
 
