@@ -2,9 +2,9 @@
 
 ## Overview
 
-This case study presents my professional approach to sound barrier inspection and maintenance, covering defect identification, condition assessment, corrosion management, component replacement, surface treatment, repair execution, safety controls, quality verification, and maintenance documentation.
+This case study presents my professional experience and approach to sound barrier inspection and maintenance, covering defect identification, condition assessment, corrosion management, component replacement, surface treatment, repair execution, safety controls, quality verification, and maintenance documentation.
 
-The case study uses generalized and non-confidential information for professional portfolio purposes.
+The case study is based on generalized professional experience and is presented without confidential company information or project-specific operational data.
 
 ---
 
@@ -18,25 +18,47 @@ The maintenance process combines field inspection, defect assessment, work plann
 
 ---
 
-## Maintenance Objectives
+## Maintenance Scope
 
-The main objectives of sound barrier maintenance are to:
+My sound barrier maintenance experience covers:
 
-- Maintain structural and functional condition
-- Identify deterioration at an early stage
-- Prevent corrosion from progressing
-- Repair or replace damaged components
-- Maintain secure connections and fasteners
-- Improve asset durability
-- Ensure safe maintenance execution
-- Verify the quality of completed work
-- Maintain proper maintenance records
+- Condition inspection
+- Defect identification
+- Corrosion assessment
+- Defect classification
+- Surface treatment
+- Component replacement
+- Fastener and connection inspection
+- Corrective maintenance
+- Preventive maintenance
+- Quality verification
+- Maintenance documentation
+- Field coordination
 
 ---
 
-## Inspection Process
+## My Role & Professional Contribution
 
-A structured inspection process can be represented as:
+My role involves supporting the management of sound barrier maintenance activities from defect identification through corrective action, verification, and close-out.
+
+Key professional contributions include:
+
+- Supporting inspection and identification of sound barrier defects and deterioration.
+- Assessing corrosion and physical conditions to determine appropriate maintenance requirements.
+- Supporting classification and prioritization of identified defects.
+- Coordinating repair and replacement activities with field personnel.
+- Supporting surface preparation and corrosion protection activities.
+- Monitoring component replacement and repair execution.
+- Supporting inspection of fasteners and connections.
+- Verifying completed maintenance work against the planned scope.
+- Supporting documentation of maintenance findings, actions, and completion status.
+- Following up outstanding defects until appropriate close-out.
+
+---
+
+## Maintenance Workflow
+
+A structured sound barrier maintenance workflow is:
 
 Visual Inspection  
 ↓  
@@ -56,13 +78,13 @@ Quality Verification
 ↓  
 Close-Out
 
-The inspection process provides the basis for determining the appropriate maintenance response.
+This process provides a structured connection between observed conditions and completed maintenance actions.
 
 ---
 
 ## Typical Defects
 
-Common sound barrier defects may include:
+Sound barrier defects may include:
 
 - Surface corrosion
 - Advanced corrosion
@@ -74,44 +96,29 @@ Common sound barrier defects may include:
 - Missing or damaged protective elements
 - Localized physical damage
 
-Defects should be documented and assessed based on their condition, extent, and potential impact.
-
----
-
-## Defect Classification
-
-A simplified classification approach may include:
-
-| Condition | General Description | Typical Action |
-|---|---|---|
-| Low | Minor surface deterioration | Monitoring / preventive treatment |
-| Moderate | Noticeable deterioration | Repair / surface treatment |
-| Advanced | Significant material deterioration | Component repair / replacement |
-| Critical | Severe deterioration potentially affecting integrity | Immediate assessment and corrective action |
-
-The actual classification and acceptance criteria should follow applicable technical requirements and approved maintenance procedures.
+Defects should be documented and assessed based on condition, extent, and potential impact.
 
 ---
 
 ## Corrosion Assessment
 
-Corrosion assessment should consider factors such as:
+Corrosion assessment considers factors such as:
 
 - Location
 - Extent
-- Depth or severity
-- Condition of the surrounding component
-- Effect on structural or functional performance
+- Severity
+- Condition of surrounding components
+- Potential effect on structural or functional performance
 - Possibility of further deterioration
 - Requirement for treatment or replacement
 
-Where appropriate, corrosion treatment may be considered before deterioration progresses to a condition requiring component replacement.
+Where appropriate, early corrosion treatment may help prevent further deterioration and reduce the need for more extensive corrective action.
 
 ---
 
 ## Surface Treatment & Corrosion Protection
 
-A general maintenance sequence for corrosion treatment may include:
+A general corrosion treatment sequence is:
 
 Surface Preparation  
 ↓  
@@ -127,13 +134,13 @@ Visual Inspection
 ↓  
 Final Verification
 
-Surface preparation and coating application should follow the applicable material specification, approved procedure, and manufacturer requirements.
+Surface preparation and coating application should follow applicable material specifications, approved procedures, and manufacturer requirements.
 
 ---
 
 ## Panel Replacement
 
-Where a panel is damaged or severely deteriorated, replacement may be considered when repair is no longer appropriate.
+Where a panel is damaged or severely deteriorated, replacement may be required when repair is no longer appropriate.
 
 A simplified replacement workflow is:
 
@@ -163,7 +170,7 @@ The replacement method should follow applicable technical requirements and ensur
 
 ## Fastener & Connection Inspection
 
-Connections and fasteners should be checked to identify conditions such as:
+Connections and fasteners should be checked for conditions such as:
 
 - Loose fasteners
 - Missing fasteners
@@ -172,7 +179,7 @@ Connections and fasteners should be checked to identify conditions such as:
 - Deteriorated connection points
 - Improper installation
 
-Where replacement is required, the replacement method and fastener type should comply with the applicable technical requirements.
+Where replacement is required, the replacement method and fastener type should comply with applicable technical requirements.
 
 ---
 
@@ -191,7 +198,7 @@ Before repair or replacement activities, planning may include:
 - Work scheduling
 - Quality verification requirements
 
-Proper planning helps ensure that maintenance work is executed safely and efficiently.
+Proper planning supports safe and controlled field execution.
 
 ---
 
@@ -252,7 +259,7 @@ Verification may include:
 
 ## Maintenance Documentation
 
-Typical maintenance documentation may include:
+Maintenance documentation may include:
 
 - Inspection findings
 - Defect classification
@@ -284,7 +291,7 @@ Documentation
 ↓  
 Close-Out
 
-This process helps ensure that identified defects are not left unresolved without appropriate follow-up.
+This process helps ensure that identified defects receive appropriate follow-up.
 
 ---
 
