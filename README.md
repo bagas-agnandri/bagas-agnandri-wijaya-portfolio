@@ -2,171 +2,180 @@
 
 ## Railway Infrastructure Maintenance Professional
 
-Professional portfolio showcasing my experience and competencies in railway infrastructure maintenance, inspection, asset management, maintenance governance, safety management, and technical documentation.
+Railway infrastructure maintenance professional with experience in high-speed railway operations, infrastructure maintenance, asset inspection, maintenance planning, technical documentation, and field team coordination.
+
+My professional focus includes maintaining railway infrastructure reliability, supporting inspection and maintenance programs, developing technical procedures, managing defects, and coordinating safe field execution.
 
 ---
 
-## 👤 About Me
-
-Railway infrastructure maintenance professional with 6+ years of experience in high-speed railway operations, infrastructure maintenance, inspection, asset management, maintenance governance, and operational readiness.
-
-Started my railway career as an O&M Readiness Officer during the development of the Jakarta–Bandung High-Speed Railway and progressed into a Deputy Foreman role supporting infrastructure maintenance activities and team supervision.
-
-My professional focus is on maintaining infrastructure reliability, improving maintenance processes, managing defects, supporting safe work execution, and developing structured technical documentation.
-
----
-
-## 🛠️ Core Expertise
+## Professional Focus
 
 - Railway Infrastructure Maintenance
 - Bridge & Tunnel Inspection
 - Preventive & Corrective Maintenance
-- Asset Inspection & Management
-- Defect Identification & Management
+- Asset & Defect Management
 - Maintenance Planning
 - Maintenance Governance
-- SOP & Procedure Development
-- K3 / Safety Management
-- Technical Reporting & Documentation
-- Team Supervision & Coordination
-- Operational Readiness
+- SOP & Technical Documentation
+- K3 / Risk Management
+- Field Supervision & Coordination
+- Infrastructure Condition Monitoring
 
 ---
 
-## 📂 Selected Portfolio
+## Portfolio
 
-### 01. Railway Infrastructure Maintenance
+This portfolio presents selected professional case studies based on my experience in railway infrastructure maintenance.
 
-Overview of railway infrastructure maintenance activities, maintenance workflows, inspection processes, and corrective action management.
+All case studies are presented using generalized, anonymized, or simulated information to protect confidential company and project information.
 
-**Key areas:**
-- Preventive maintenance
-- Corrective maintenance
-- Infrastructure inspection
-- Defect management
-- Maintenance planning
-- Work monitoring
-- Verification & close-out
+### 01 — Railway Infrastructure Maintenance
+
+Overview of railway infrastructure maintenance activities, including inspection, preventive maintenance, corrective maintenance, defect management, maintenance planning, field coordination, verification, and continuous improvement.
+
+**[View Case Study →](./01-railway-maintenance/)**
 
 ---
 
-### 02. Bridge & Tunnel Inspection
+### 02 — Bridge & Tunnel Inspection
 
-A simulated case study demonstrating the inspection and assessment approach for railway bridges and tunnels.
+Professional approach to railway bridge and tunnel inspection, including inspection preparation, defect identification, condition assessment, maintenance recommendations, documentation, and follow-up.
 
-**Key areas:**
-- Inspection preparation
-- Field inspection
-- Defect identification
-- Condition assessment
-- Risk evaluation
-- Maintenance recommendation
-- Follow-up inspection
+**[View Case Study →](./02-bridge-tunnel-inspection/)**
 
 ---
 
-### 03. Sound Barrier Maintenance
+### 03 — Sound Barrier Maintenance
 
-A simulated maintenance case study covering defect identification, corrosion treatment, panel replacement, and maintenance verification.
+Technical case study covering sound barrier inspection, corrosion assessment, component replacement, surface treatment, fastener inspection, safety controls, and quality verification.
 
-**Key areas:**
-- Visual inspection
-- Defect classification
-- Corrosion assessment
-- Panel condition assessment
-- Repair / replacement planning
-- Safety controls
-- Final verification
+**[View Case Study →](./03-sound-barrier-maintenance/)**
 
 ---
 
-### 04. Maintenance Governance & SOP Development
+### 04 — Maintenance Governance & SOP Development
 
-A portfolio case study demonstrating the relationship between regulatory requirements, maintenance strategy, procedures, inspection programs, and field implementation.
+Approach to maintenance governance, technical documentation, inspection procedures, preventive maintenance programs, SOP development, document control, and continuous improvement.
 
-**Key areas:**
-- Maintenance procedures
-- Inspection procedures
-- Preventive maintenance programs
-- SOP development
-- Documentation
-- Compliance
-- Continuous improvement
+**[View Case Study →](./04-maintenance-governance-sop/)**
 
 ---
 
-### 05. K3 / Risk Management
+### 05 — K3 / Risk Management
 
-A simulated railway maintenance risk assessment demonstrating hazard identification and risk control.
+Railway maintenance safety approach covering hazard identification, risk assessment, risk controls, trackside safety, work-at-height safety, emergency response, stop-work authority, and safety monitoring.
 
-**Key areas:**
-- Hazard identification
-- Risk assessment
-- Risk control
-- Work-at-height safety
-- Trackside safety
-- Emergency response
-- Stop-work procedures
+**[View Case Study →](./05-k3-risk-management/)**
 
 ---
 
-### 06. Asset & Defect Management
+### 06 — Asset & Defect Management
 
-A simulated asset and defect management case study demonstrating structured defect tracking and maintenance follow-up.
+Approach to asset condition monitoring, defect recording, data reconciliation, maintenance prioritization, corrective action tracking, verification, close-out, and management reporting.
 
-**Key areas:**
-- Asset identification
-- Defect recording
-- Defect classification
-- Priority assessment
-- Corrective action
-- Progress monitoring
-- Verification
-- Close-out
+**[View Case Study →](./06-asset-defect-management/)**
 
 ---
 
-## 📜 Professional Certifications
+## Core Competencies
 
-- High-Speed Railway Bridge & Tunnel Inspector
-- Railway Bridge & Tunnel Inspection Competency
-- Fire Emergency Response / Fire Safety Competency
-- Other professional certifications related to railway infrastructure maintenance and safety
+### Railway Infrastructure
+
+- Infrastructure Maintenance
+- Bridge Inspection
+- Tunnel Inspection
+- Sound Barrier Maintenance
+- Asset Condition Monitoring
+- Preventive Maintenance
+- Corrective Maintenance
+
+### Maintenance Management
+
+- Maintenance Planning
+- Defect Management
+- Asset Management
+- Maintenance Governance
+- SOP Development
+- Technical Documentation
+- Work Monitoring
+- Quality Verification
+
+### Safety & Risk
+
+- Hazard Identification
+- Risk Assessment
+- Risk Control
+- Railway Trackside Safety
+- Work-at-Height Safety
+- Emergency Response
+- Safety Monitoring
+
+### Leadership & Coordination
+
+- Field Team Supervision
+- Work Coordination
+- Cross-Functional Coordination
+- Problem Solving
+- Maintenance Follow-Up
+- Continuous Improvement
 
 ---
 
-## 💼 Professional Experience
-
-**High-Speed Railway Infrastructure**  
-**2019 – Present**
-
-Career progression from **Officer to Deputy Foreman**, with responsibilities involving infrastructure maintenance, inspection, operational readiness, maintenance governance, technical documentation, and team supervision.
-
----
-
-## 🔧 Professional Approach
+## Professional Approach
 
 My approach to railway infrastructure maintenance is based on:
 
 **Inspect → Assess → Plan → Execute → Verify → Improve**
 
-The objective is to ensure that maintenance activities are structured, traceable, safe, and aligned with infrastructure reliability requirements.
+I focus on connecting field conditions with structured maintenance planning, safe execution, proper documentation, and measurable follow-up.
 
 ---
 
-## 🔒 Portfolio Disclaimer
+## Professional Certifications
 
-This portfolio is intended for professional and career presentation purposes.
+Selected professional certifications and competencies include:
 
-All examples, datasets, diagrams, and case studies presented in this repository are either self-developed, simulated, or anonymized.
+- High-Speed Railway Bridge & Tunnel Inspection
+- Railway Bridge & Tunnel Inspection Competency
+- Railway Infrastructure Maintenance Competency
+- Fire Prevention / Fire Response Competency
 
-No confidential company documents, proprietary information, sensitive operational data, internal reports, vendor information, or restricted infrastructure information are disclosed.
+Detailed certification information is available in my professional CV.
 
 ---
 
-## 📫 Contact
+## Education
 
-**Bagas Agnandri Wijaya**  
-Railway Infrastructure Maintenance Professional
+**Diploma (D3) – Building & Railway Track Engineering**
 
-LinkedIn: https://www.linkedin.com/in/bagasaw/
+Politeknik Perkeretaapian Indonesia Madiun
+
+---
+
+## Technical Interests
+
+- High-Speed Railway Infrastructure
+- Infrastructure Inspection
+- Asset Management
+- Maintenance Optimization
+- Maintenance Governance
+- Railway Safety
+- Risk Management
+- Technical Documentation
+- Continuous Improvement
+
+---
+
+## Portfolio Disclaimer
+
+This GitHub portfolio is intended for professional presentation purposes.
+
+All case studies, examples, workflows, and data structures are generalized, anonymized, or simulated.
+
+No confidential company documents, proprietary information, internal reports, vendor information, sensitive operational data, project-specific locations, technical drawings, security-sensitive infrastructure information, or restricted records are disclosed.
+
+---
+
+## Contact
+
+For professional opportunities and collaboration, please refer to my CV or professional profile.
