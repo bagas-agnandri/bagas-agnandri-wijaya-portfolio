@@ -2,7 +2,7 @@
 
 ## Overview
 
-This case study presents a structured approach to occupational health and safety risk management for railway infrastructure maintenance activities.
+This case study presents my professional experience and approach to occupational health and safety risk management for railway infrastructure maintenance activities.
 
 The approach covers hazard identification, risk assessment, risk control, safe work planning, emergency response, work monitoring, and continuous improvement.
 
@@ -20,9 +20,47 @@ Safety is treated as an integral part of maintenance planning and execution.
 
 ---
 
+## K3 Scope
+
+My safety-related experience covers:
+
+- Hazard identification
+- Risk assessment
+- Risk control
+- Safe work planning
+- Trackside safety
+- Work-at-height safety
+- Emergency response
+- Stop-work management
+- Field safety monitoring
+- Safety documentation
+- Incident and near-miss learning
+- Continuous improvement
+
+---
+
+## My Role & Professional Contribution
+
+My role includes supporting the implementation of K3 controls during railway infrastructure maintenance activities.
+
+Key professional contributions include:
+
+- Supporting hazard identification before and during maintenance activities.
+- Participating in risk assessment and consideration of appropriate control measures.
+- Supporting implementation of work area protection and safe work controls.
+- Monitoring field compliance with established safety requirements.
+- Supporting safe work planning for activities involving railway trackside areas and working at height.
+- Identifying unsafe conditions and supporting immediate corrective actions.
+- Supporting emergency response arrangements for foreseeable maintenance scenarios.
+- Applying stop-work principles when conditions do not support safe execution.
+- Supporting safety documentation and follow-up of identified safety observations.
+- Using field findings and lessons learned as inputs for improvement of maintenance safety controls.
+
+---
+
 ## K3 Risk Management Approach
 
-A structured risk management process can be represented as:
+A structured risk management process is:
 
 Hazard Identification  
 ↓  
@@ -46,7 +84,7 @@ The objective is to reduce risks to an acceptable level before and during mainte
 
 Hazard identification should be performed before work begins and reviewed when working conditions change.
 
-Typical hazards in railway infrastructure maintenance may include:
+Typical railway maintenance hazards include:
 
 - Railway movement
 - Working at height
@@ -57,10 +95,12 @@ Typical hazards in railway infrastructure maintenance may include:
 - Slips, trips, and falls
 - Extreme weather
 - Poor visibility
-- Confined or restricted access areas
+- Restricted access areas
 - Vehicle and equipment movement
 - Material entering the railway track
 - Structural or component instability
+
+Hazard identification should consider the actual work method, environment, personnel exposure, equipment, and operational conditions.
 
 ---
 
@@ -92,13 +132,13 @@ Control Measures
 ↓  
 Residual Risk
 
-The assessment should be reviewed when there are significant changes to the work scope, environment, equipment, or operating conditions.
+The assessment should be reviewed when there are significant changes to work scope, environment, equipment, or operating conditions.
 
 ---
 
 ## Risk Control Hierarchy
 
-Risk controls should prioritize measures that eliminate or reduce the hazard at its source.
+Risk controls should prioritize measures that eliminate or reduce hazards at their source.
 
 A general hierarchy is:
 
@@ -129,43 +169,23 @@ All examples in this table are generalized and do not represent actual company r
 
 ---
 
-## Control Measures
+## Trackside Safety
 
-Risk controls should be established before work begins.
+Activities conducted near railway tracks require appropriate operational coordination and work protection.
 
-Typical controls may include:
+Key considerations include:
 
-### Engineering Controls
+- Work authorization
+- Work area protection
+- Communication with relevant operational control
+- Defined working limits
+- Personnel awareness
+- Material and equipment control
+- Safe access and egress
+- Emergency communication
+- Stop-work authority
 
-- Physical barriers
-- Guarding
-- Safe access systems
-- Fall protection systems
-- Mechanical lifting equipment
-
-### Administrative Controls
-
-- Work permits
-- Work instructions
-- Toolbox meetings
-- Competency requirements
-- Work scheduling
-- Communication procedures
-- Inspection and supervision
-
-### Personal Protective Equipment
-
-Depending on the activity:
-
-- Safety helmet
-- Safety footwear
-- High-visibility clothing
-- Safety gloves
-- Eye protection
-- Hearing protection
-- Fall protection equipment
-
-The required controls should be determined according to the specific hazards and applicable safety requirements.
+Maintenance activities should not continue when required safety or operational controls are not adequately established.
 
 ---
 
@@ -192,26 +212,6 @@ Work Execution
 Inspection & Close-Out
 
 Work should be suspended when conditions make safe execution impractical.
-
----
-
-## Trackside Safety
-
-Activities conducted near railway tracks require appropriate operational coordination and work protection.
-
-Key considerations include:
-
-- Work authorization
-- Work area protection
-- Communication with relevant operational control
-- Defined working limits
-- Personnel awareness
-- Material and equipment control
-- Safe access and egress
-- Emergency communication
-- Stop-work authority
-
-No maintenance activity should continue when required safety or operational controls are not adequately established.
 
 ---
 
@@ -251,7 +251,7 @@ Investigation
 ↓  
 Corrective Action
 
-Emergency procedures should be aligned with the applicable operational, safety, and emergency management requirements.
+Emergency procedures should be aligned with applicable operational, safety, and emergency management requirements.
 
 ---
 
@@ -259,7 +259,7 @@ Emergency procedures should be aligned with the applicable operational, safety, 
 
 Personnel should have the ability to stop work when an unsafe condition is identified.
 
-Examples of conditions that may require work suspension include:
+Examples include:
 
 - Loss of required work protection
 - Extreme weather
@@ -271,7 +271,7 @@ Examples of conditions that may require work suspension include:
 - Structural instability
 - Any condition presenting an unacceptable risk
 
-Work should only resume after the hazard has been addressed and the required controls have been re-established.
+Work should only resume after the hazard has been addressed and required controls have been re-established.
 
 ---
 
@@ -297,7 +297,7 @@ Supervision should identify unsafe conditions early and initiate corrective acti
 
 ## Incident & Near-Miss Learning
 
-Incidents and near misses provide opportunities to improve safety controls.
+Incidents and near misses can provide opportunities to improve safety controls.
 
 A simplified learning process is:
 
@@ -337,7 +337,7 @@ Safety management should continuously improve through:
 - Changes in work methods
 - Changes in technical or safety requirements
 
-The improvement cycle can be represented as:
+The improvement cycle is:
 
 Plan  
 ↓  
@@ -377,7 +377,7 @@ My approach to maintenance safety is based on:
 
 **Identify → Assess → Control → Monitor → Improve**
 
-The objective is to ensure that safety risks are identified before work, appropriate controls are implemented, unsafe conditions are addressed immediately, and lessons learned are used to improve future maintenance activities.
+The objective is to identify safety risks before work, implement appropriate controls, address unsafe conditions immediately, and use lessons learned to improve future maintenance activities.
 
 ---
 
