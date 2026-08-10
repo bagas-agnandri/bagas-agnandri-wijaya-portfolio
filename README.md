@@ -1,9 +1,7 @@
 # Bagas Agnandri Wijaya
 
 ## Railway Infrastructure Maintenance Professional
-
 [📄 Download CV](./CV-Bagas-Agnandri-Wijaya.pdf)
-
 Railway infrastructure maintenance professional with experience in high-speed railway operations, infrastructure maintenance, asset inspection, maintenance planning, technical documentation, and field team coordination.
 
 My professional focus includes maintaining railway infrastructure reliability, supporting inspection and maintenance programs, developing technical procedures, managing defects, and coordinating safe field execution.
