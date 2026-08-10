@@ -2,9 +2,9 @@
 
 ## Overview
 
-This case study presents a structured approach to railway infrastructure asset and defect management, covering asset identification, condition monitoring, defect recording, data reconciliation, prioritization, maintenance tracking, verification, and reporting.
+This case study presents my professional experience and approach to railway infrastructure asset and defect management, covering asset identification, condition monitoring, defect recording, data reconciliation, prioritization, maintenance tracking, verification, and reporting.
 
-The approach is designed to improve traceability between infrastructure condition, maintenance requirements, and completed actions.
+The approach is designed to improve traceability between infrastructure condition, maintenance requirements, completed actions, and management information.
 
 The content is presented using generalized and non-confidential information for professional portfolio purposes.
 
@@ -20,9 +20,48 @@ The objective is to ensure that infrastructure findings are transformed into cle
 
 ---
 
+## Asset & Defect Management Scope
+
+My experience covers:
+
+- Asset identification
+- Asset condition monitoring
+- Defect recording
+- Defect classification
+- Data verification
+- Data reconciliation
+- Defect prioritization
+- Maintenance tracking
+- Corrective action monitoring
+- Verification and close-out
+- Technical reporting
+- Management information
+- Data quality control
+
+---
+
+## My Role & Professional Contribution
+
+My role involves supporting the management of infrastructure condition and defect information from initial findings through maintenance action and close-out.
+
+Key professional contributions include:
+
+- Supporting the maintenance of structured asset and defect information.
+- Recording and organizing inspection findings and identified defects.
+- Supporting verification and reconciliation of information from different records or sources.
+- Identifying inconsistencies, missing information, and differences requiring follow-up.
+- Supporting defect prioritization based on condition, severity, safety, asset criticality, and maintenance requirements.
+- Monitoring maintenance status and outstanding corrective actions.
+- Supporting verification of completed corrective actions before close-out.
+- Preparing or supporting maintenance reporting and management information.
+- Monitoring recurring defects and condition trends as inputs for maintenance planning.
+- Supporting data quality, traceability, and controlled updates of maintenance information.
+
+---
+
 ## Asset Management Cycle
 
-A structured asset and defect management cycle can be represented as:
+A structured asset and defect management cycle is:
 
 Asset Identification  
 ↓  
@@ -54,7 +93,7 @@ This cycle supports continuous visibility of asset condition and maintenance sta
 
 Reliable asset information should include appropriate identification and condition information.
 
-Typical asset data may include:
+Typical information may include:
 
 - Asset identification
 - Asset category
@@ -97,7 +136,7 @@ A structured defect register provides visibility of outstanding maintenance requ
 
 ## Defect Status Management
 
-A simplified defect status workflow may include:
+A simplified defect status workflow is:
 
 New Finding  
 ↓  
@@ -167,7 +206,7 @@ Prioritization may consider:
 - Maintenance complexity
 - Required resources
 
-A simplified priority concept may be:
+A simplified priority concept is:
 
 ### High Priority
 
@@ -181,7 +220,7 @@ Conditions requiring planned corrective action within an appropriate maintenance
 
 Minor conditions that can be monitored or addressed through routine maintenance.
 
-Actual priority criteria should follow the applicable maintenance and safety requirements.
+Actual priority criteria should follow applicable maintenance and safety requirements.
 
 ---
 
@@ -231,9 +270,9 @@ Verification confirms that the corrective action has addressed the identified co
 
 ## Reporting & Management Information
 
-Asset and defect data can be converted into management information to support decision-making.
+Asset and defect data can be converted into management information to support maintenance decisions.
 
-Useful reporting indicators may include:
+Useful indicators may include:
 
 - Total identified defects
 - Open defects
@@ -246,7 +285,7 @@ Useful reporting indicators may include:
 - Maintenance completion rate
 - Outstanding maintenance workload
 
-A simplified management reporting flow is:
+A simplified reporting flow is:
 
 Field Data  
 ↓  
@@ -321,7 +360,7 @@ Important data quality principles include:
 - Verification
 - Controlled updates
 
-Data quality should be maintained throughout the asset management process.
+Data quality should be maintained throughout the asset and defect management process.
 
 ---
 
