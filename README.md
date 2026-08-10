@@ -27,6 +27,21 @@ Currently serving as **Deputy Foreman – Bridge, Tunnel & Subgrade Maintenance*
 
 ---
 
+## Professional Scope
+
+My professional experience covers maintenance activities across a high-speed railway infrastructure corridor, including:
+
+- 61 km railway infrastructure corridor
+- 8 tunnels
+- 27 bridges
+- 33 earthwork / subgrade assets
+- 56 sound barriers
+- 12 height restriction portals
+- Field maintenance team coordination and supervision
+- Infrastructure inspection, defect management, preventive and corrective maintenance
+
+---
+
 ## Portfolio
 
 This portfolio presents selected professional case studies based on my experience in railway infrastructure maintenance.
@@ -137,14 +152,12 @@ I focus on connecting field conditions with structured maintenance planning, saf
 
 ## Professional Certifications
 
-Selected professional certifications and competencies include:
-
-- High-Speed Railway Bridge & Tunnel Inspection
-- Railway Bridge & Tunnel Inspection Competency
-- Railway Infrastructure Maintenance Competency
-- Fire Prevention / Fire Response Competency
-
-Detailed certification information is available in my professional CV.
+- High-Speed Railway Infrastructure Maintenance Personnel – Bridge Competency Certificate No. PRP.260897.73038 | Valid until 2029 - Ministry of Transportation, Republic of Indonesia
+- High-Speed Railway Infrastructure Maintenance Personnel – Tunnel Competency Certificate No. PRP.260897.73039 | Valid until 2029 - Ministry of Transportation, Republic of Indonesia
+- High-Speed Railway Infrastructure Inspection Personnel – Bridge Competency Certificate No. PRP.260897.73040 | Valid until 2029 - Ministry of Transportation, Republic of Indonesia
+- High-Speed Railway Infrastructure Inspection Personnel – Tunnel Competency Certificate No. PRP.260897.73041 | Valid until 2029 - Ministry of Transportation, Republic of Indonesia
+- Fire Emergency Response Team (Class C) Registration No. 2794020224 | Valid until 2029 - Ministry of Manpower, Republic of Indonesia
+- Fire Emergency Officer (Class D) Registration No. 2813020224 | Valid until 2029 - Ministry of Manpower, Republic of Indonesia
 
 ---
 
