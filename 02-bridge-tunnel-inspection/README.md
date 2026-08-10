@@ -2,40 +2,62 @@
 
 ## Overview
 
-This case study presents my professional approach to railway bridge and tunnel inspection, covering inspection preparation, field assessment, defect identification, condition evaluation, risk consideration, maintenance recommendations, follow-up, and technical documentation.
+This case study presents my professional experience and approach to railway bridge and tunnel inspection, covering inspection preparation, field assessment, defect identification, condition evaluation, risk consideration, maintenance recommendations, follow-up, verification, and technical documentation.
 
-The case study uses generalized and non-confidential information for professional portfolio purposes.
+The case study is based on generalized professional experience in railway infrastructure inspection and is presented without confidential company information or project-specific operational data.
 
 ---
 
 ## Professional Context
 
-Railway bridges and tunnels are critical infrastructure assets that require systematic inspection and condition monitoring to maintain safety, reliability, serviceability, and long-term asset performance.
+Railway bridges and tunnels are critical infrastructure assets that require systematic inspection and condition monitoring to support safety, reliability, serviceability, and long-term asset performance.
 
-My professional experience includes supporting inspection activities for railway infrastructure, documenting observed conditions, identifying defects, assessing maintenance requirements, and coordinating follow-up actions with maintenance teams.
+My professional experience includes supporting inspection activities, documenting observed conditions, identifying defects, assessing maintenance requirements, and coordinating follow-up actions with maintenance teams.
 
-The inspection process is approached not only as an activity to identify defects, but also as an important input for maintenance planning and asset condition management.
+Inspection findings are treated as an important input for maintenance planning, prioritization, and asset condition management.
 
 ---
 
-## Inspection Objectives
+## Inspection Environment & Scope
 
-The primary objectives of bridge and tunnel inspection are to:
+My bridge and tunnel inspection experience covers activities such as:
 
-- Identify visible defects and deterioration
-- Assess the general condition of infrastructure components
-- Detect potential safety or serviceability concerns
-- Monitor changes in asset condition
-- Determine appropriate maintenance requirements
-- Establish traceable inspection records
-- Support maintenance planning and prioritization
-- Provide recommendations for follow-up actions
+- Inspection preparation
+- Review of previous findings
+- Field condition assessment
+- Defect identification and classification
+- Condition monitoring
+- Maintenance recommendation
+- Follow-up inspection
+- Verification
+- Technical documentation
+- Coordination with maintenance teams
+
+The inspection process connects field observations with maintenance decisions and follow-up actions.
+
+---
+
+## My Role & Professional Contribution
+
+My role in bridge and tunnel inspection includes supporting the inspection process from preparation through field assessment, documentation, maintenance recommendation, follow-up, and verification.
+
+Key professional contributions include:
+
+- Preparing inspection activities based on defined scope and available asset information.
+- Reviewing previous inspection findings to support current condition assessment.
+- Conducting or supporting field inspection and documenting observed conditions.
+- Identifying and classifying visible defects and abnormal conditions.
+- Assessing the potential maintenance requirements associated with inspection findings.
+- Supporting prioritization of findings based on condition, severity, safety considerations, and maintenance requirements.
+- Coordinating follow-up actions with relevant maintenance personnel.
+- Supporting verification of completed corrective or preventive actions.
+- Maintaining inspection records and technical documentation for traceability.
 
 ---
 
 ## Inspection Workflow
 
-A structured inspection process can be represented as:
+A structured inspection workflow is:
 
 Inspection Preparation  
 ↓  
@@ -57,7 +79,7 @@ Verification
 ↓  
 Inspection Record Close-Out
 
-This workflow helps ensure that inspection findings are converted into actionable maintenance information.
+This workflow helps convert inspection observations into actionable and traceable maintenance information.
 
 ---
 
@@ -67,13 +89,13 @@ Before field inspection, preparation may include:
 
 - Reviewing previous inspection findings
 - Reviewing available asset information
-- Identifying inspection scope
+- Defining inspection scope
 - Preparing inspection equipment
-- Preparing inspection forms or digital records
+- Preparing inspection forms or records
 - Identifying access requirements
 - Coordinating personnel
 - Reviewing safety requirements
-- Confirming operational restrictions where applicable
+- Confirming applicable operational restrictions
 
 Proper preparation helps ensure that inspection activities are conducted systematically and safely.
 
@@ -81,7 +103,7 @@ Proper preparation helps ensure that inspection activities are conducted systema
 
 ## Bridge Inspection
 
-Bridge inspection may cover the condition of major structural and supporting components.
+Bridge inspection may cover the condition of structural and supporting components.
 
 ### Structural Components
 
@@ -104,7 +126,7 @@ Inspection may also consider:
 - Ancillary structures
 - Areas surrounding the structure
 
-Observed conditions should be documented according to the applicable inspection requirements and technical criteria.
+Observed conditions should be documented according to applicable inspection requirements and technical criteria.
 
 ---
 
@@ -122,31 +144,13 @@ Tunnel inspection may consider the condition of:
 - Walkways and access areas
 - Ancillary infrastructure
 
-Particular attention should be given to conditions that may indicate deterioration, water-related problems, structural concerns, or requirements for preventive or corrective maintenance.
+Particular attention is given to conditions that may indicate deterioration, water-related problems, structural concerns, or requirements for preventive or corrective maintenance.
 
 ---
 
-## Defect Identification
+## Defect Identification & Condition Assessment
 
-Typical inspection findings may include:
-
-| Defect Category | Example Finding | Initial Consideration |
-|---|---|---|
-| Concrete | Surface deterioration | Condition monitoring / repair |
-| Crack | Visible cracking | Assessment & monitoring |
-| Leakage | Water seepage | Drainage / waterproofing assessment |
-| Corrosion | Corrosion on metal components | Treatment / replacement |
-| Drainage | Blockage or deterioration | Cleaning / repair |
-| Joint | Deteriorated joint component | Corrective maintenance |
-| Structural Component | Abnormal condition | Further engineering assessment |
-
-All examples in this portfolio are generalized and do not represent actual company inspection data.
-
----
-
-## Condition Assessment
-
-Inspection findings should be assessed based on factors such as:
+Inspection findings are assessed based on factors such as:
 
 - Defect type
 - Defect extent
@@ -177,11 +181,11 @@ Recommended Action
 
 ## Maintenance Recommendation
 
-Inspection findings should lead to appropriate recommendations based on their condition and priority.
+Inspection findings may lead to different maintenance responses depending on their condition and priority.
 
 ### Monitoring
 
-For conditions that require periodic observation to determine whether deterioration is progressing.
+For conditions requiring periodic observation to determine whether deterioration is progressing.
 
 ### Preventive Maintenance
 
@@ -201,7 +205,7 @@ The final maintenance response should follow applicable technical requirements a
 
 ## Inspection Documentation
 
-Effective inspection documentation should provide sufficient information to support traceability and maintenance decisions.
+Inspection documentation should provide sufficient information to support traceability and maintenance decisions.
 
 Typical information includes:
 
@@ -220,9 +224,9 @@ Good documentation provides a reliable reference for future inspections and main
 
 ---
 
-## Follow-Up Process
+## Follow-Up & Verification
 
-Inspection findings should be monitored until the required action has been completed and verified.
+Inspection findings should remain under monitoring until the required action has been completed and verified.
 
 Inspection Finding  
 ↓  
@@ -236,7 +240,7 @@ Result Verified
 ↓  
 Finding Closed
 
-This process helps prevent outstanding defects from being overlooked and improves maintenance traceability.
+This process helps prevent outstanding findings from being overlooked and improves maintenance traceability.
 
 ---
 
