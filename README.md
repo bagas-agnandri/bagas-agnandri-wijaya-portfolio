@@ -8,7 +8,7 @@ Railway infrastructure maintenance professional with experience in high-speed ra
 
 Currently serving as **Deputy Foreman – Bridge, Tunnel & Subgrade Maintenance**, supporting railway infrastructure reliability, maintenance programs, defect management, maintenance governance, and safe field execution.
 
-[📄 Download CV](./CV-Bagas-Agnandri-Wijaya.pdf) | [💼 LinkedIn](https://www.linkedin.com/in/bagasaw/)
+[📄 Download CV](./CV-Bagas-Agnandri-Wijaya.pdf) | [🔗 LinkedIn](https://www.linkedin.com/in/bagasaw/)
 
 ---
 
